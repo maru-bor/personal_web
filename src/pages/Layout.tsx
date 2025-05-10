@@ -7,13 +7,13 @@ export default function Layout(){
             <nav>
                 <ul>
                     <li>
-                        <Link to="/"> Home </Link>
+                        <Link to="personal_web/"> Home </Link>
                     </li>
                     <li>
-                        <Link to="/about"> About </Link>
+                        <Link to="personal_web/about"> About </Link>
                     </li>
                     <li>
-                        <Link to="/education"> Education </Link>
+                        <Link to="personal_web/education"> Education </Link>
                     </li>
 
                 </ul>
