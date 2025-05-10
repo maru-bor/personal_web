@@ -7,13 +7,25 @@ export default function Layout(){
             <nav>
                 <ul>
                     <li>
-                        <Link to="personal_web/"> Home </Link>
+                        <Link to="/"> home </Link>
                     </li>
                     <li>
-                        <Link to="personal_web/about"> About </Link>
+                        <Link to="/about"> o mně </Link>
                     </li>
                     <li>
-                        <Link to="personal_web/education"> Education </Link>
+                        <Link to="/education"> vzdělání </Link>
+                    </li>
+                    <li>
+                        <Link to="/certificates"> certifikáty a kurzy </Link>
+                    </li>
+                    <li>
+                        <Link to="/experience"> zkušenosti </Link>
+                    </li>
+                    <li>
+                        <Link to="/portfolio"> portfolio </Link>
+                    </li>
+                    <li>
+                        <Link to="/contact"> kontakt </Link>
                     </li>
 
                 </ul>
