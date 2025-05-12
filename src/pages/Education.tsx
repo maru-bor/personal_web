@@ -9,6 +9,7 @@ export default function Education(){
                     <p>2022 - současnost</p>
                     <p>Obor: Informační technologie</p>
                     <p>Studentka 3. ročníku</p>
+                    <p>Web: </p>
 
 
                 </div>
