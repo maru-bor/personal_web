@@ -1,0 +1,71 @@
+{
+  "home" : {
+    "nav_title" : "ngarep",
+    "name" : "Marie Borisova"
+  },
+  "about" : {
+    "nav_title" : "bab kula",
+    "title" : "Bab kula",
+    "content" : "Aku mahasiswa taun 3rd saiki sinau ing Secondary Technical School of Electrical Engineering Jecna. Bidang studiku yaiku Teknologi Informasi. Aku pinter basa C#, Java lan TypeScript, sing digunakake kanggo proyek pribadi lan sekolah."
+  },
+  "edu" : {
+    "nav_title" : "pendidikan",
+    "title" : "Pendidikan",
+    "content" : {
+      "school_name" : "Sekolah Menengah Teknik Elektro Jecna",
+      "year" : "2022 - saiki",
+      "major" : "Bidang Studi: Teknologi Informasi",
+      "student_year" : "Siswa kelas 3",
+      "web" : "Situs web: "
+    }
+  },
+  "certs": {
+    "nav_title" : "sertifikat",
+    "title" : "Sertifikat lan kursus"
+  },
+  "work_exp": {
+    "nav_title" : "pengalaman",
+    "title" : "Pengalaman kerja",
+    "content" : {
+      "work_1" : {
+        "job_pos" : "Pangembang web",
+        "job_type" : "Internship",
+        "company_pos" : "Commerzbank AG, Praha 2",
+        "time" : "20.05.2024 - 31.05.2024",
+        "job_desc" : "Deskripsi proyek: program situs web ing tim\n\n (HTML, CSS, JavaScript, Svelte)"
+      },
+      "work_2" : {
+        "job_pos" : "Pengembang piranti lunak perbankan",
+        "job_type" : "Kerja paruh wektu",
+        "company_pos" : "Commerzbank AG, Praha 2",
+        "time" : "25.08.2024 - 23.08.2024",
+        "job_desc" : "Deskripsi proyek: piranti lunak pemrograman perbankan sing ngasilake kunci (TypeScript)"
+      }
+    }
+  },
+  "portfolio" : {
+    "nav_title" : "portofolio",
+    "title" : "Portofolio",
+    "content": {
+      "project_1": {
+        "name" : "Tamagotchi",
+        "desc" : "Versi digital saka game populer Tamagotchi ngendi pangguna njupuk care saka pet virtual ing browser. Pet kasebut duwe sawetara kabutuhan dhasar sing kudu dicukupi kanthi rutin. (TypeScript, React)"
+      },
+      "project_2": {
+        "name" : "Password Game (Game Sandi)",
+        "desc" : "A game browser kang pangguna kudu ngetik sandhi sing marem kritéria diwenehi. (TypeScript, React)"
+      },
+      "project_3": {
+        "name" : "Database Project (Proyek Database)",
+        "desc" : "Antarmuka pangguna konsol kanggo database. (C#, MSSQL)"
+      }
+    }
+  },
+  "contact": {
+    "nav_title" : "kontak",
+    "title" : "Kontak",
+    "phone" : "Nomer telpon: +420 123 456 789",
+    "email" : "Alamat email: marie.borisova@gmail.com"
+  }
+
+}

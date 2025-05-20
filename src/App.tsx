@@ -35,6 +35,11 @@ function App() {
         <div>
             <button onClick={() => changeLang("cs")}> cs </button>
             <button onClick={() => changeLang("en")}> en </button>
+            <button onClick={() => changeLang("jv")}> jv </button>
+            <button onClick={() => changeLang("tlh")}> tlh </button>
+            <button onClick={() => changeLang("hu")}> hu </button>
+            <button onClick={() => changeLang("eo")}> eo </button>
+            <button onClick={() => changeLang("lat")}> lat </button>
         </div>
 
     </>

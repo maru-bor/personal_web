@@ -1,0 +1,71 @@
+{
+  "home" : {
+    "nav_title" : "hejmen",
+    "name" : "Marie Borisova"
+  },
+  "about" : {
+    "nav_title" : "pri",
+    "title" : "Pri mi",
+    "content" : "Mi estas 3-a jara studento nuntempe studante ĉe la Mezlernejo de Elektrotekniko Jecna. Mia studfako estas Informaj teknologioj. Mi scipovas la lingvojn C#, Java kaj TypeScript, kiujn mi uzas por personaj kaj lernejaj projektoj."
+  },
+  "edu" : {
+    "nav_title" : "edukado",
+    "title" : "Edukado",
+    "content" : {
+      "school_name" : "Malĉefa Teknika Lernejo de Elektrotekniko Jecna",
+      "year" : "2022 - ĉeestanta",
+      "major" : "Fako de studo: Informa teknologio",
+      "student_year" : "3-a jara studento",
+      "web" : "Retejo: "
+    }
+  },
+  "certs": {
+    "nav_title" : "atestilojn",
+    "title" : "Atestiloj kaj kursoj"
+  },
+  "work_exp": {
+    "nav_title" : "sperto",
+    "title" : "Labora sperto",
+    "content" : {
+      "work_1" : {
+        "job_pos" : "Reta programisto",
+        "job_type" : "Staĝo",
+        "company_pos" : "Commerzbank AG, Prago 2",
+        "time" : "20.05.2024 - 31.05.2024",
+        "job_desc" : "Laborpriskribo: programado de retejo en teamo (HTML, CSS, JavaScript, Svelte)"
+      },
+      "work_2" : {
+        "job_pos" : "Ellaboranto de banka programaro",
+        "job_type" : "Partatempa laboro",
+        "company_pos" : "Commerzbank AG, Prago 2",
+        "time" : "25.08.2024 - 23.08.2024",
+        "job_desc" : "Laborpriskribo: programado de banka programaro, kiu generas ŝlosilojn (TypeScript)"
+      }
+    }
+  },
+  "portfolio" : {
+    "nav_title" : "biletujo",
+    "title" : "Biletujo",
+    "content": {
+      "project_1": {
+        "name" : "Tamagotchi",
+        "desc" : "Cifereca versio de la populara ludo Tamagotchi kie la uzanto prizorgas virtualan dorlotbeston en sia retumilo. La dorlotbesto havas plurajn bazajn bezonojn, kiujn la uzanto devas regule kontentigi. (TypeScript, React)"
+      },
+      "project_2": {
+        "name" : "Password Game (Pasvorta Ludo)",
+        "desc" : "Retumila ludo en kiu la uzanto devas enigi pasvorton kiu kontentigas la donitajn kriteriojn. (TypeScript, React)"
+      },
+      "project_3": {
+        "name" : "Database Project (Datumbaza Projekto)",
+        "desc" : "Konzola uzantinterfaco por datumbazo. (C#, MSSQL)"
+      }
+    }
+  },
+  "contact": {
+    "nav_title" : "kontakto",
+    "title" : "Kontakto",
+    "phone" : "Telefonnumero: +420 123 456 789",
+    "email" : "Retpoŝt: marie.borisova@gmail.com"
+  }
+
+}

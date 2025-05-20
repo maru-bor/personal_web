@@ -1,0 +1,71 @@
+{
+  "home" : {
+    "nav_title" : "otthon",
+    "name" : "Marie Borisova"
+  },
+  "about" : {
+    "nav_title" : "rólam",
+    "title" : "Rólam",
+    "content" : "3. éves tanuló vagyok, jelenleg a Jecna Villamosipari Szakközépiskolában tanulok. Tanulmányi területem az információs technológia. Jártas vagyok a C#, Java és TypeScript nyelvekben, amelyeket személyes és iskolai projektekhez használok."
+  },
+  "edu" : {
+    "nav_title" : "oktatás",
+    "title" : "Oktatás",
+    "content" : {
+      "school_name" : "Elektrotechnikai Szakközépiskola Jecna",
+      "year" : "2022 - jelenlegi",
+      "major" : "Tanulmányi terület: Informatika",
+      "student_year" : "3. éves hallgató",
+      "web" : "Weboldal: "
+    }
+  },
+  "certs": {
+    "nav_title" : "bizonyítványok",
+    "title" : "Bizonyítványok és tanfolyamok"
+  },
+  "work_exp": {
+    "nav_title" : "munkatapasztalat",
+    "title" : "munkatapasztalat",
+    "content" : {
+      "work_1" : {
+        "job_pos" : "Webfejlesztő",
+        "job_type" : "Szakmai gyakorlat",
+        "company_pos" : "Commerzbank AG, Prága 2",
+        "time" : "2024.05.20 - 2024.05.31",
+        "job_desc" : "Munkakör leírása: Weboldal programozása csapatban (HTML, CSS, JavaScript, Svelte)"
+      },
+      "work_2" : {
+        "job_pos" : "Banki szoftver fejlesztő",
+        "job_type" : "Részmunkaidős állás",
+        "company_pos" : "Commerzbank AG, Prága 2",
+        "time" : "2024.08.25 - 2024.08.23",
+        "job_desc" : "Munkaköri leírás: kulcsokat generáló banki szoftver programozása (TypeScript)"
+      }
+    }
+  },
+  "portfolio" : {
+    "nav_title" : "portfólió",
+    "title" : "Portfólió",
+    "content": {
+      "project_1": {
+        "name" : "Tamagotchi",
+        "desc" : "A népszerű Tamagotchi játék digitális változata, ahol a felhasználó egy virtuális kisállatról gondoskodik a böngészőjében. A házi kedvencnek számos alapvető szükséglete van, amelyeket a használónak rendszeresen ki kell elégítenie. (TypeScript, React)"
+      },
+      "project_2": {
+        "name" : "Password Game (Jelszavas Játék)",
+        "desc" : "Böngészős játék, amelyben a felhasználónak meg kell adnia a megadott feltételeknek megfelelő jelszót. (TypeScript, React)"
+      },
+      "project_3": {
+        "name" : "Database Project (Adatbázis Projekt)",
+        "desc" : "Konzol felhasználói felület egy adatbázishoz. (C#, MSSQL)"
+      }
+    }
+  },
+  "contact": {
+    "nav_title" : "érintkezés",
+    "title" : "Érintkezés",
+    "phone" : "Telefonszám: +420 123 456 789",
+    "email" : "E-mail: marie.borisova@gmail.com"
+  }
+
+}

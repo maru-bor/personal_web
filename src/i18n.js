@@ -1,5 +1,11 @@
 import czechTrans from "../public/locales/cs/cs_CZ.json";
-import englishTrans from "../public/locales/en/un_EN.json";
+import englishTrans from "../public/locales/en/en_US.json";
+import esperantoTrans from "../public/locales/eo/eo_001.json";
+import hungTrans from "../public/locales/hu/hu_HU.json";
+import javaTrans from "../public/locales/jv/jv_ID.json";
+import latinTrans from "../public/locales/lat/lat.json";
+import klingonTrans from "../public/locales/tlh/tlh.json";
+
 import i18n from "i18next";
 import { initReactI18next } from "react-i18next";
 
@@ -12,11 +18,26 @@ const resources = {
         translation: czechTrans
 
     },
-
     en: {
         translation: englishTrans
 
+    },
+    eo: {
+        translation: esperantoTrans
+    },
+    hu:{
+        translation: hungTrans
+    },
+    jv:{
+        translation: javaTrans
+    },
+    lat:{
+        translation: latinTrans
+    },
+    tlh:{
+        translation: klingonTrans
     }
+
 }
 
 i18n

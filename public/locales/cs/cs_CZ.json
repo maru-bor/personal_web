@@ -32,14 +32,14 @@
         "job_type" : "Odborná praxe",
         "company_pos" : "Commerzbank AG, Praha 2",
         "time" : "20.05.2024 - 31.05.2024",
-        "job_desc" : "Vytvoření webové stránky v týmu"
+        "job_desc" : "Popis práce: vytvoření webové stránky v týmu (HTML, CSS, JavaScript, Svelte)"
       },
       "work_2" : {
         "job_pos" : "Vývojář bankovního softwaru",
         "job_type" : "Brigáda",
         "company_pos" : "Commerzbank AG, Praha 2",
         "time" : "25.08.2024 - 23.08.2024",
-        "job_desc" : "Vytvoření bankovního softwaru pro generování klíčů"
+        "job_desc" : "Popis práce : vytvoření bankovního softwaru pro generování klíčů (TypeScript)"
       }
     }
   },
