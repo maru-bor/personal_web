@@ -1,8 +1,13 @@
+import {useTranslation} from 'react-i18next';
+
+
 export default function Certificates(){
+
+    const {t} = useTranslation();
 
     return(
         <>
-            <h2>Certifikáty a kurzy</h2>
+            <h2>{t('certs.title')}</h2>
             <div id="certificates" className="mt-5">
                 <div className="fs-4 border border-dark border-4">
                     <h4><strong> JavaScript Essentials 1 </strong> </h4>

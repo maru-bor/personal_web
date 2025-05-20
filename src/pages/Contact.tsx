@@ -1,20 +1,24 @@
 import phoneImg from './phone.png';
 import emailImg from './email.svg';
+import {useTranslation} from 'react-i18next';
 
 export default function Contact(){
 
+    const {t} = useTranslation();
+
+
     return(
         <>
-            <h2>Kontakt</h2>
+            <h2>{t('contact.title')}</h2>
             <div id="contact" className="mt-5 ">
                 <div>
                     <img src={phoneImg} width={100}/>
-                    <p className="fw-bold fs-5"> Telefon: +420 773 684 774 </p>
+                    <p className="fw-bold fs-5"> {t('contact.phone')} </p>
 
                 </div>
                 <div>
                     <img src={emailImg} width={100}/>
-                    <p className="fw-bold fs-5">E-mail: marie.borisova@gmail.com </p>
+                    <p className="fw-bold fs-5">{t('contact.email')}</p>
                 </div>
             </div>
         </>

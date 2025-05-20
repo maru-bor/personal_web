@@ -1,13 +1,17 @@
 import './App.css'
+import {useTranslation} from 'react-i18next';
+
 
 export default function App(){
 
+    const {t} = useTranslation();
+
+
     return(
         <>
-            <h2>O mně</h2>
+            <h2>{t('about.title')}</h2>
             <div id="about-cont" className="mt-5" >
-                <p id="about" className="fs-4"> Jsem studentka 3. ročníku Střední průmyslové školy elektrotechnické se zaměřením na informační technologie.
-                    Ovládám programovací jazyky Java, C# a TypeScript, se kterými pracuji při školních i vlastních projektech.
+                <p id="about" className="fs-4"> {t('about.content')}
                 </p>
             </div>
 

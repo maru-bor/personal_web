@@ -7,7 +7,7 @@ import Certificates from "./pages/Certificates.tsx";
 import Contact from "./pages/Contact.tsx";
 import Portfolio from "./pages/Portfolio.tsx";
 import Experience from "./pages/Experience.tsx";
-import i18n from './i18n.js';
+import i18n from "./i18n.js";
 
 function App() {
 
@@ -32,8 +32,11 @@ function App() {
                 </Route>
             </Routes>
         </BrowserRouter>
-        <button onClick={() => changeLang("cs")}> cs </button>
-        <button onClick={() => changeLang("en")}> en </button>
+        <div>
+            <button onClick={() => changeLang("cs")}> cs </button>
+            <button onClick={() => changeLang("en")}> en </button>
+        </div>
+
     </>
   )
 }

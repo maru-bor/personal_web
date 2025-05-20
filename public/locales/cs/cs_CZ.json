@@ -1,0 +1,71 @@
+{
+  "home" : {
+    "nav_title" : "domů",
+    "name" : "Marie Borisová"
+  },
+  "about" : {
+    "nav_title" : "o mně",
+    "title" : "O mně",
+    "content" : "Jsem studentka 3. ročníku Střední průmyslové školy elektrotechnické se zaměřením na informační technologie. Ovládám programovací jazyky Java, C# a TypeScript, se kterými pracuji při školních i vlastních projektech."
+  },
+  "edu" : {
+    "nav_title" : "vzdělání",
+    "title" : "Vzdělání",
+    "content" : {
+      "school_name" : "Střední průmyslová škola elektrotechnická Ječná",
+      "year" : "2022 - současnost",
+      "major" : "Obor: Informační technologie",
+      "student_year" : "Studentka 3. ročníku",
+      "web" : "Web: "
+    }
+  },
+  "certs": {
+    "nav_title" : "certifikáty",
+    "title" : "Certifikáty a kurzy"
+  },
+  "work_exp": {
+    "nav_title" : "zkušenosti",
+    "title" : "Pracovní zkušenosti",
+    "content" : {
+      "work_1" : {
+        "job_pos" : "Webový vývojář",
+        "job_type" : "Odborná praxe",
+        "company_pos" : "Commerzbank AG, Praha 2",
+        "time" : "20.05.2024 - 31.05.2024",
+        "job_desc" : "Vytvoření webové stránky v týmu"
+      },
+      "work_2" : {
+        "job_pos" : "Vývojář bankovního softwaru",
+        "job_type" : "Brigáda",
+        "company_pos" : "Commerzbank AG, Praha 2",
+        "time" : "25.08.2024 - 23.08.2024",
+        "job_desc" : "Vytvoření bankovního softwaru pro generování klíčů"
+      }
+    }
+  },
+  "portfolio" : {
+    "nav_title" : "portfolio",
+    "title" : "Portfolio",
+    "content": {
+      "project_1": {
+        "name" : "Tamagotchi",
+        "desc" : "Digitální verze hry Tamagotchi, kde se uživatel stará o virtuálního mazlíčka.  Mazlíček má několik základních potřeb, které uživatel musí pravidelně uspokojovat. (TypeScript, React)"
+      },
+      "project_2": {
+        "name" : "Password Game",
+        "desc" : "Hra v prohlížeči ve které uživatel musí zadat heslo podle zadaných kritérií. (TypeScript, React)"
+      },
+      "project_3": {
+        "name" : "Database Project",
+        "desc" : "Konzolové uživatelské rozhraní pro databázi. (C#, MSSQL)"
+      }
+    }
+  },
+  "contact": {
+    "nav_title" : "kontakt",
+    "title" : "Kontakt",
+    "phone" : "Telefon: +420 123 456 789",
+    "email" : "E-mail: marie.borisova@gmail.com"
+  }
+
+}

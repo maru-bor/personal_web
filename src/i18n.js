@@ -1,32 +1,21 @@
+import czechTrans from "../public/locales/cs/cs_CZ.json";
+import englishTrans from "../public/locales/en/un_EN.json";
 import i18n from "i18next";
 import { initReactI18next } from "react-i18next";
+
 
 // the translations
 // (tip move them in a JSON file and import them,
 // or even better, manage them separated from your code: https://react.i18next.com/guides/multiple-translation-files)
 const resources = {
     cs:{
-        translation: {
-            "home_nav": "domů",
-            "about_nav": "o mně",
-            "edu_nav": "vzdělání",
-            "cert_nav": "certifikáty",
-            "exp_nav": "zkušenosti",
-            "port_nav": "portfolio",
-            "cont_nav": "kontakt"
-        }
+        translation: czechTrans
+
     },
 
     en: {
-        translation: {
-            "home_nav": "home",
-            "about_nav": "about",
-            "edu_nav": "education",
-            "cert_nav": "certificates",
-            "exp_nav": "experience",
-            "port_nav": "portfolio",
-            "cont_nav": "contact"
-        }
+        translation: englishTrans
+
     }
 }
 
