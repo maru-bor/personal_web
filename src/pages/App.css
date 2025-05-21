@@ -4,8 +4,6 @@
   padding: 0.2rem;
 }
 
-
-
 #about-cont{
   width: 100%;
 }
@@ -15,17 +13,16 @@
 }
 
 #lang-btn{
+  margin-top: 3em;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
 }
 
-
-
-
-
-
+#lang-btn button{
+  margin-right: 2em;
+}
 
 #certificates{
   display: flex;
@@ -62,8 +59,6 @@
   text-align: start;
 }
 
-
-
 #navbar{
   display: flex;
   justify-content: space-between;
@@ -73,13 +68,11 @@
 }
 
 
-
 ul {
   display: flex;
   flex-direction: row;
 
 }
-
 
 li{
   list-style-type: none;
@@ -103,6 +96,7 @@ a:hover {
     font-size: 1.2em;
   }
 
+
   ul{
     flex-direction: column;
   }
@@ -119,4 +113,5 @@ a:hover {
   #projects{
     text-align: center;
   }
+
 }
