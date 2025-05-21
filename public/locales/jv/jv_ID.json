@@ -52,11 +52,11 @@
         "desc" : "Versi digital saka game populer Tamagotchi ngendi pangguna njupuk care saka pet virtual ing browser. Pet kasebut duwe sawetara kabutuhan dhasar sing kudu dicukupi kanthi rutin. (TypeScript, React)"
       },
       "project_2": {
-        "name" : "Password Game (Game Sandi)",
+        "name" : "Game Sandi",
         "desc" : "A game browser kang pangguna kudu ngetik sandhi sing marem kritéria diwenehi. (TypeScript, React)"
       },
       "project_3": {
-        "name" : "Database Project (Proyek Database)",
+        "name" : "Proyek Database",
         "desc" : "Antarmuka pangguna konsol kanggo database. (C#, MSSQL)"
       }
     }

@@ -52,11 +52,11 @@
         "desc" : "Cifereca versio de la populara ludo Tamagotchi kie la uzanto prizorgas virtualan dorlotbeston en sia retumilo. La dorlotbesto havas plurajn bazajn bezonojn, kiujn la uzanto devas regule kontentigi. (TypeScript, React)"
       },
       "project_2": {
-        "name" : "Password Game (Pasvorta Ludo)",
+        "name" : "Pasvorta Ludo",
         "desc" : "Retumila ludo en kiu la uzanto devas enigi pasvorton kiu kontentigas la donitajn kriteriojn. (TypeScript, React)"
       },
       "project_3": {
-        "name" : "Database Project (Datumbaza Projekto)",
+        "name" : "Datumbaza Projekto",
         "desc" : "Konzola uzantinterfaco por datumbazo. (C#, MSSQL)"
       }
     }

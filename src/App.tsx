@@ -32,14 +32,15 @@ function App() {
                 </Route>
             </Routes>
         </BrowserRouter>
-        <div>
-            <button onClick={() => changeLang("cs")}> cs </button>
-            <button onClick={() => changeLang("en")}> en </button>
-            <button onClick={() => changeLang("jv")}> jv </button>
-            <button onClick={() => changeLang("tlh")}> tlh </button>
-            <button onClick={() => changeLang("hu")}> hu </button>
-            <button onClick={() => changeLang("eo")}> eo </button>
-            <button onClick={() => changeLang("lat")}> lat </button>
+
+        <div id="lang-btn">
+            <button onClick={() => changeLang("cs")}> čeština </button>
+            <button onClick={() => changeLang("en")}> english </button>
+            <button onClick={() => changeLang("jv")}> basa jawa </button>
+            <button onClick={() => changeLang("tlh")}> tlhIngan </button>
+            <button onClick={() => changeLang("hu")}> magyar </button>
+            <button onClick={() => changeLang("eo")}> esperanto </button>
+            <button onClick={() => changeLang("lat")}> latinum </button>
         </div>
 
     </>

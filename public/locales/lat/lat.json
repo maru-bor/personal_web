@@ -1,45 +1,45 @@
 {
   "home" : {
-    "nav_title" : "home",
+    "nav_title" : "domus",
     "name" : "Marie Borisova"
   },
   "about" : {
-    "nav_title" : "about",
-    "title" : "About me",
-    "content" : "I am a 3rd year student currently studying at the Secondary Technical School of Electrical Engineering Jecna. My field of study is Information technologies. I am proficient in the languages C#, Java and TypeScript, which I use for personal and school projects."
+    "nav_title" : "de \"",
+    "title" : "De me",
+    "content" : "Sum 3 annus discipulus currently studeo in schola secundaria Technical Engineering Jecna. Studiorum campus meus est technologiae Information. In linguis C#, Java et Typographis proficio, quibus inceptis personalibus et scholae utor."
   },
   "edu" : {
-    "nav_title" : "education",
-    "title" : "Education",
+    "nav_title" : "educatione",
+    "title" : "Educatione",
     "content" : {
-      "school_name" : "Secondary Technical School of Electrical Engineering Jecna",
-      "year" : "2022 - present",
-      "major" : "Field of study: Information technology",
-      "student_year" : "3rd year student",
+      "school_name" : "Schola Technica Secundaria Ingeniariae Electricae Jecna",
+      "year" : "2022 - praesentem",
+      "major" : "Campus studii: Information technology",
+      "student_year" : "3 annus discipulus",
       "web" : "Website: "
     }
   },
   "certs": {
-    "nav_title" : "certificates",
-    "title" : "Certificates & courses"
+    "nav_title" : "libellorum",
+    "title" : "Testimoniales cursus"
   },
   "work_exp": {
-    "nav_title" : "experience",
-    "title" : "Work experience",
+    "nav_title" : "experientia",
+    "title" : "Opus experientia",
     "content" : {
       "work_1" : {
-        "job_pos" : "Web developer",
-        "job_type" : "Internship",
-        "company_pos" : "Commerzbank AG, Prague 2",
+        "job_pos" : "Web elit",
+        "job_type" : "Nulla",
+        "company_pos" : "Commerzbank AG, Pragae 2",
         "time" : "20.05.2024 - 31.05.2024",
-        "job_desc" : "Job description: programming a website in a team (HTML, CSS, JavaScript, Svelte)"
+        "job_desc" : "Descriptio muneris: situs interretialis in grege programmandi (HTML, CSS, JavaScript, Svelte)"
       },
       "work_2" : {
-        "job_pos" : "Developer of banking software",
-        "job_type" : "Part-time job",
-        "company_pos" : "Commerzbank AG, Prague 2",
+        "job_pos" : "Duis luctus elit",
+        "job_type" : "Pars temporis officium",
+        "company_pos" : "Commerzbank AG, Pragae 2",
         "time" : "25.08.2024 - 23.08.2024",
-        "job_desc" : "Job description: programming banking software that generates keys (TypeScript)"
+        "job_desc" : " Descriptio muneris: programmatio programmatis argentarii quae claves generat (TypeScript)"
       }
     }
   },
@@ -49,23 +49,23 @@
     "content": {
       "project_1": {
         "name" : "Tamagotchi",
-        "desc" : "A digital version of the popular game Tamagotchi where the user takes care of a virtual pet in their browser. The pet has several basic needs that the user must regularly satisfy. (TypeScript, React)"
+        "desc" : " Versio digitalis ludi popularis Tamagotchi ubi usor curam gerit animalis virtualis in navigatro suo. Animali sunt nonnullae necessitates fundamentales quas usor regulariter explere debet.  (TypeScript, React)"
       },
       "project_2": {
-        "name" : "Password Game",
-        "desc" : "A browser game in which the user must enter a password that satisfies the given criteria. (TypeScript, React)"
+        "name" : "Signum Ludus",
+        "desc" : "Ludus navigatoris in quo usor tesseram inserere debet quae criteriis datis satisfacit.  (TypeScript, React)"
       },
       "project_3": {
-        "name" : "Database Project",
-        "desc" : "Console user interface for a database. (C#, MSSQL)"
+        "name" : "Propositum Databases",
+        "desc" : "Interfacies usoris ad consolam pro database. (C#, MSSQL)"
       }
     }
   },
   "contact": {
-    "nav_title" : "contact",
-    "title" : "Contact",
-    "phone" : "Phone number: +420 123 456 789",
-    "email" : "E-mail: marie.borisova@gmail.com"
+    "nav_title" : "contactus",
+    "title" : "Contactus",
+    "phone" : "Numerus telephonicus: +420 123 456 789",
+    "email" : "Inscriptio : marie.borisova@gmail.com"
   }
 
 }

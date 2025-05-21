@@ -12,7 +12,7 @@
     "nav_title" : " chu' ",
     "title" : "maQmIgh",
     "content" : {
-      "school_name" : "'ej qeylIS hoch tlhogh Jecna",
+      "school_name" : "'ej qeylIS Hoch DI je, qonta'bogh hoch DuY'e'",
       "year" : "2022 - much",
       "major" : "DeQ QI'yaH, Dechqu'pu'bogh.",
       "student_year" : "chon'ay'",
@@ -20,52 +20,52 @@
     }
   },
   "certs": {
-    "nav_title" : "certificates",
-    "title" : "Certificates & courses"
+    "nav_title" : "ghojmoH",
+    "title" : "ghotvam vIpablaHbe' je"
   },
   "work_exp": {
-    "nav_title" : "experience",
-    "title" : "Work experience",
+    "nav_title" : "qem",
+    "title" : "qem",
     "content" : {
       "work_1" : {
-        "job_pos" : "Web developer",
-        "job_type" : "Internship",
-        "company_pos" : "Commerzbank AG, Prague 2",
+        "job_pos" : "matuj",
+        "job_type" : "ghojmoHwI'pu'",
+        "company_pos" : "qorengvaD",
         "time" : "20.05.2024 - 31.05.2024",
-        "job_desc" : "Job description: programming a website in a team (HTML, CSS, JavaScript, Svelte)"
+        "job_desc" : "'ej loQ mIgh rurlaw'qu' je."
       },
       "work_2" : {
-        "job_pos" : "Developer of banking software",
-        "job_type" : "Part-time job",
-        "company_pos" : "Commerzbank AG, Prague 2",
+        "job_pos" : "Hatlh",
+        "job_type" : "bIQHa'DI' yIvupHa'bogh",
+        "company_pos" : "qorengvaD",
         "time" : "25.08.2024 - 23.08.2024",
-        "job_desc" : "Job description: programming banking software that generates keys (TypeScript)"
+        "job_desc" : "(ngeHbe'bogh loDnI'wI' tIqDaj."
       }
     }
   },
   "portfolio" : {
-    "nav_title" : "portfolio",
-    "title" : "Portfolio",
+    "nav_title" : "che'",
+    "title" : "QI'yaH!",
     "content": {
       "project_1": {
-        "name" : "Tamagotchi",
-        "desc" : "A digital version of the popular game Tamagotchi where the user takes care of a virtual pet in their browser. The pet has several basic needs that the user must regularly satisfy. (TypeScript, React)"
+        "name" : "mIw'a'",
+        "desc" : "'uSer qabDaj 'ach loQ SuvwI'pu' 'e' nIDbogh loDnI'wI', 'uSer qabDaj 'ach loJmItHom vIDellaH. qaStaHvIS DIS law' ghu' Lunuq. tugh 'oH."
       },
       "project_2": {
-        "name" : "Password Game",
-        "desc" : "A browser game in which the user must enter a password that satisfies the given criteria. (TypeScript, React)"
+        "name" : "pIpyuS",
+        "desc" : "nubuSmoH QeH poH nI'qu' 'e' wIlegh. tugh 'oH."
       },
       "project_3": {
-        "name" : "Database Project",
-        "desc" : "Console user interface for a database. (C#, MSSQL)"
+        "name" : "Horey'So",
+        "desc" : "QumwI'pu' ngoDmey. # Qu'vatlh, qarmey tIqlIj."
       }
     }
   },
   "contact": {
-    "nav_title" : "contact",
-    "title" : "Contact",
-    "phone" : "Phone number: +420 123 456 789",
-    "email" : "E-mail: marie.borisova@gmail.com"
+    "nav_title" : "ghom",
+    "title" : "yIche'choH",
+    "phone" : "+' ghu'vam, qaStaHvIS wa'",
+    "email" : "marie.borisova@gmail.com"
   }
 
 }

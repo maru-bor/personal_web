@@ -14,11 +14,22 @@
   width: 50%;
 }
 
+#lang-btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+
+
+
+
 
 
 #certificates{
   display: flex;
- align-items: center;
+  align-items: center;
   flex-wrap: wrap;
 }
 

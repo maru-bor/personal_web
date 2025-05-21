@@ -52,11 +52,11 @@
         "desc" : "A népszerű Tamagotchi játék digitális változata, ahol a felhasználó egy virtuális kisállatról gondoskodik a böngészőjében. A házi kedvencnek számos alapvető szükséglete van, amelyeket a használónak rendszeresen ki kell elégítenie. (TypeScript, React)"
       },
       "project_2": {
-        "name" : "Password Game (Jelszavas Játék)",
+        "name" : "Jelszavas Játék",
         "desc" : "Böngészős játék, amelyben a felhasználónak meg kell adnia a megadott feltételeknek megfelelő jelszót. (TypeScript, React)"
       },
       "project_3": {
-        "name" : "Database Project (Adatbázis Projekt)",
+        "name" : "Adatbázis Projekt",
         "desc" : "Konzol felhasználói felület egy adatbázishoz. (C#, MSSQL)"
       }
     }

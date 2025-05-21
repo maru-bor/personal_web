@@ -52,11 +52,11 @@
         "desc" : "Digitální verze hry Tamagotchi, kde se uživatel stará o virtuálního mazlíčka.  Mazlíček má několik základních potřeb, které uživatel musí pravidelně uspokojovat. (TypeScript, React)"
       },
       "project_2": {
-        "name" : "Password Game",
+        "name" : "Hra s hesly",
         "desc" : "Hra v prohlížeči ve které uživatel musí zadat heslo podle zadaných kritérií. (TypeScript, React)"
       },
       "project_3": {
-        "name" : "Database Project",
+        "name" : "Databázový projekt",
         "desc" : "Konzolové uživatelské rozhraní pro databázi. (C#, MSSQL)"
       }
     }
