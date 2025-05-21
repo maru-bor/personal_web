@@ -1,22 +1,22 @@
 {
   "home" : {
-    "nav_title" : "home",
-    "name" : "Marie Borisova"
+    "nav_title" : "juH",
+    "name" : "muy'Sorgh"
   },
   "about" : {
-    "nav_title" : "about",
-    "title" : "About me",
-    "content" : "I am a 3rd year student currently studying at the Secondary Technical School of Electrical Engineering Jecna. My field of study is Information technologies. I am proficient in the languages C#, Java and TypeScript, which I use for personal and school projects."
+    "nav_title" : "je'",
+    "title" : "HIHIv",
+    "content" : "tera' tach 'el wa' tlhIngan vIlaDta' 'e' vIlay'. yInwIjDaq ghu'vam. # HIvtaHghach vIjatlh, 'ej Qoq vIlo'taHvIS, muSHa'moHghach vIja'ta'."
   },
   "edu" : {
-    "nav_title" : "education",
-    "title" : "Education",
+    "nav_title" : " chu' ",
+    "title" : "maQmIgh",
     "content" : {
-      "school_name" : "Secondary Technical School of Electrical Engineering Jecna",
-      "year" : "2022 - present",
-      "major" : "Field of study: Information technology",
-      "student_year" : "3rd year student",
-      "web" : "Website: "
+      "school_name" : "'ej qeylIS hoch tlhogh Jecna",
+      "year" : "2022 - much",
+      "major" : "DeQ QI'yaH, Dechqu'pu'bogh.",
+      "student_year" : "chon'ay'",
+      "web" : "ma'oy': "
     }
   },
   "certs": {
