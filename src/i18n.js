@@ -5,6 +5,7 @@ import hungTrans from "../public/locales/hu/hu_HU.json";
 import javaTrans from "../public/locales/jv/jv_ID.json";
 import latinTrans from "../public/locales/lat/lat.json";
 import klingonTrans from "../public/locales/tlh/tlh.json";
+import cantonTrans from "../public/locales/yue/yue_CN.json";
 
 import i18n from "i18next";
 import { initReactI18next } from "react-i18next";
@@ -36,6 +37,9 @@ const resources = {
     },
     tlh:{
         translation: klingonTrans
+    },
+    yue:{
+        translation: cantonTrans
     }
 
 }

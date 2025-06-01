@@ -1,0 +1,71 @@
+{
+  "home" : {
+    "nav_title" : "屋企",
+    "name" : "Marie Borisova (瑪麗 · 博里索娃)"
+  },
+  "about" : {
+    "nav_title" : "關於",
+    "title" : "關於我",
+    "content" : "我係一個三年級嘅學生，而家喺 Jecna 電機工程中學讀書。我嘅研究領域係資訊科技，我精通 C # 、 Java 同 TypeScript 嘅語言，我會用呢啲語言嚟做個人同學校嘅項目。"
+  },
+  "edu" : {
+    "nav_title" : "教育",
+    "title" : "教育",
+    "content" : {
+      "school_name" : "電機工程中等技術學校 Jecna",
+      "year" : "2022年 - 而家",
+      "major" : "研究領域：資訊科技",
+      "student_year" : "三年級學生",
+      "web" : "網站： "
+    }
+  },
+  "certs": {
+    "nav_title" : "證書",
+    "title" : "證書同課程"
+  },
+  "work_exp": {
+    "nav_title" : "經驗",
+    "title" : "工作經驗",
+    "content" : {
+      "work_1" : {
+        "job_pos" : "網頁開發人員",
+        "job_type" : "實習",
+        "company_pos" : "Commerzbank AG, 布拉格2",
+        "time" : "2024年5月20號 - 2024年5月31號",
+        "job_desc" : "工作內容：團隊編寫網站 (HTML, CSS, JavaScript, Svelte)"
+      },
+      "work_2" : {
+        "job_pos" : "銀行軟件開發人員",
+        "job_type" : "兼職工作",
+        "company_pos" : "Commerzbank AG, 布拉格2",
+        "time" : "2024年8月25日 - 2024年8月23日",
+        "job_desc" : "工作描述：編程生成密鑰嘅銀行軟件 (TypeScript)"
+      }
+    }
+  },
+  "portfolio" : {
+    "nav_title" : "組合",
+    "title" : "組合",
+    "content": {
+      "project_1": {
+        "name" : "Tamagotchi",
+        "desc" : "熱門遊戲 Tamagotchi 嘅數碼版本，用戶喺瀏覽器入面照顧一隻虛擬寵物。寵物有幾個基本需要，用戶必須定期滿足。 (TypeScript, React)"
+      },
+      "project_2": {
+        "name" : "密碼遊戲",
+        "desc" : "用戶必須輸入符合給定準則嘅密碼嘅瀏覽器遊戲。 (TypeScript, React)"
+      },
+      "project_3": {
+        "name" : "資料庫項目",
+        "desc" : "控制資料庫嘅用戶介面。 (C#, MSSQL)"
+      }
+    }
+  },
+  "contact": {
+    "nav_title" : "聯絡",
+    "title" : "聯絡",
+    "phone" : "電話號碼： +420 123 456 789",
+    "email" : "電郵： marie.borisova@gmail.com"
+  }
+
+}

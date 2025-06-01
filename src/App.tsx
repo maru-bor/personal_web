@@ -41,6 +41,7 @@ function App() {
             <button onClick={() => changeLang("hu")}> magyar </button>
             <button onClick={() => changeLang("eo")}> esperanto </button>
             <button onClick={() => changeLang("lat")}> latinum </button>
+            <button onClick={() => changeLang("yue")}> 廣州話 </button>
         </div>
 
     </>
