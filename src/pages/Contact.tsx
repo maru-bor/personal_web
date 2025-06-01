@@ -1,4 +1,4 @@
-import phoneImg from './phone.webp';
+import phoneImg from './phone.svg';
 import emailImg from './email.svg';
 import {useTranslation} from 'react-i18next';
 
