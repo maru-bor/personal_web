@@ -34,14 +34,14 @@ function App() {
         </BrowserRouter>
 
         <div id="lang-btn">
-            <button onClick={() => changeLang("cs")}> čeština </button>
-            <button onClick={() => changeLang("en")}> english </button>
-            <button onClick={() => changeLang("jv")}> basa jawa </button>
-            <button onClick={() => changeLang("tlh")}> tlhIngan </button>
-            <button onClick={() => changeLang("hu")}> magyar </button>
-            <button onClick={() => changeLang("eo")}> esperanto </button>
-            <button onClick={() => changeLang("lat")}> latinum </button>
-            <button onClick={() => changeLang("yue")}> 廣州話 </button>
+            <button className="btn btn-secondary" onClick={() => changeLang("cs")}> čeština </button>
+            <button className="btn btn-secondary" onClick={() => changeLang("en")}> english </button>
+            <button className="btn btn-secondary" onClick={() => changeLang("jv")}> basa jawa </button>
+            <button className="btn btn-secondary" onClick={() => changeLang("tlh")}> tlhIngan </button>
+            <button className="btn btn-secondary" onClick={() => changeLang("hu")}> magyar </button>
+            <button className="btn btn-secondary" onClick={() => changeLang("eo")}> esperanto </button>
+            <button className="btn btn-secondary" onClick={() => changeLang("lat")}> latinum </button>
+            <button className="btn btn-secondary" onClick={() => changeLang("yue")}> 廣州話 </button>
         </div>
 
     </>
